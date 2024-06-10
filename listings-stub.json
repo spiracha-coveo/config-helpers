@@ -1,0 +1,33 @@
+{
+    "patterns" : [],
+    "queryConfiguration": {
+      "facets": {
+        "freezeFacetOrder": true
+      },
+      "perPage": 15,
+      "sorts": []
+    },
+    "name": "",
+    "trackingId": "",
+    "rules": {
+      "filterRules": [
+        {
+          "name": "",
+          "essential": true,
+          "filters": [
+            {
+              "fieldName": "",
+              "operator": "contains",
+              "value": {
+                "type": "array",
+                "values": [
+                  ""
+                ]
+              }
+            }
+          ],
+          "action": "include"
+        }
+      ]
+    }
+  }
